@@ -30,6 +30,10 @@ p {
   margin: 33px;
 }
 
+a {
+  color: #000;
+}
+
 th {
   padding-bottom: 5px;
 }
@@ -55,3 +59,4 @@ label {
 #notice {
   color: green;
 }
+
